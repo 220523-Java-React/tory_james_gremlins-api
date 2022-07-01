@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a705237-4dbd-4739-8568-41ba3179cca0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/service/GremlinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/service/GremlinService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
