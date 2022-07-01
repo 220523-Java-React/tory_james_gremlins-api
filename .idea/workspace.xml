@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a705237-4dbd-4739-8568-41ba3179cca0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controller/GremlinController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/controller/GremlinController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/model/Gremlin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/model/Gremlin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/repository/GremlinRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/repository/GremlinRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/service/GremlinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/service/GremlinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/util/ConnectionUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/util/ConnectionUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +26,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -47,7 +55,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.tory_james_gremlins-api [test]">
+  <component name="RunManager" selected="Application.com.revature.driver">
     <configuration name="com.revature.driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.revature.driver" />
       <module name="tory_james_gremlins-api.main" />
